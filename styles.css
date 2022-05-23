@@ -1,0 +1,49 @@
+.nav {
+    display: flex;
+    justify-content: right;
+}
+
+.navList {
+    list-style-type: none;
+    text-align: end;
+    word-spacing: 2em;
+    padding-right: 2em;
+}
+
+.navList li {
+    display: inline;
+    font-size: 1.3em;
+}
+
+.name {
+    padding-top: 1em;
+    font-size: 3em;
+    padding-bottom: 0.2em;
+}
+
+.job {
+    padding-top: 0.2em;
+    font-size: 1.8em;
+    padding-bottom: 1em;
+}
+
+.front {
+    padding-left: 4em;
+}
+
+.frontPage {
+    display: flex;
+}
+
+button {
+    font-size: 1.4em;
+    border-radius: 20px;
+    border: none;
+    background-color:rgb(103, 0, 199) ;
+    width: 150px;
+    height: 30px;
+}
+
+p {
+    margin: 0;
+}
